@@ -1,0 +1,5 @@
+let sentence = "Hello world from javascript";
+
+let firstWord = sentence.split(" ")[0];
+
+console.log(firstWord);
