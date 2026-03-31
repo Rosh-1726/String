@@ -1,0 +1,5 @@
+let str = "hello world javascript";
+
+let result = str.replaceAll(" ", "-");
+
+console.log(result);
